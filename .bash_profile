@@ -9,6 +9,6 @@ fi
 
 PATH=$PATH:$HOME/bin
 
-alias voxDB_connect="mysql -h -u -p"
+alias voxDB="mysql -h -u -p"
 
 export PATH
