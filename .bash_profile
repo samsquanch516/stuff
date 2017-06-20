@@ -10,6 +10,6 @@ fi
 PATH=$PATH:$HOME/bin
 
 alias voxDB="mysql -h -u -p"
-alias pullPuppet="cd /etc/puppet; sudo git pull;"
+alias pullPuppet="cd /etc/puppet && sudo git pull;"
 
 export PATH
